@@ -1,4 +1,4 @@
-# sleep-quality-analysis/DSA210 Project
+# Sleep-Quality-Analysis/DSA210 Project
 
 # Analyzing the Impact of Daily Habits on Sleep Quality
 
